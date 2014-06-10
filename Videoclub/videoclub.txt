@@ -1,0 +1,4 @@
+SO	2	juan
+SO	1	juan
+PE	1	pwli	3
+PE	2	wew	12
